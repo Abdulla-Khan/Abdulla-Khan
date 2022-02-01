@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulla-khan&show_icons=true&locale=en&layout=compact" alt="abdulla-khan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulla-khan&show_icons=true&locale=en" alt="abdulla-khan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulla-khan&show_icons=true&locale=en&hide=stars" alt="abdulla-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulla-khan&" alt="abdulla-khan" /></p>
