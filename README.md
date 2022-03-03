@@ -2,8 +2,9 @@
 <br />
 Hey Guys 👋, I'm Abdullah Khan, An undergradute Software Engineering student and developer with expertise in Python, Data Science and Flutter 💫. Currently I'm the assistant trainer at the Jawan Pakistan Flutter Training program, which caters to a total of 150+ students ⚡️. Right now I'm working to become a Full stack developer. 💻👨‍💻
 
-  <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-  
+  <br>  <br>
+  <img align="center" alt="GIF" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76116e06d76667e41a1df36e7a51156a1a7edab80f0a&rid=giphy.gif&ct=g" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdulla79564218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulla79564218" height="30" width="40" /></a>
