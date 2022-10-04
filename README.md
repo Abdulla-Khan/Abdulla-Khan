@@ -10,9 +10,7 @@ Hey Guys 👋, I'm Abdullah Khan, An undergradute Software Engineering student a
 <a href="https://twitter.com/abdulla79564218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulla79564218" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah khan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17896071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17896071" height="30" width="40" /></a>
-<a href="https://fb.com/abdullah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah khan" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullahkhan878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahkhan878" height="30" width="40" /></a>
-</p>
+ 
 
 
 
@@ -21,6 +19,5 @@ Hey Guys 👋, I'm Abdullah Khan, An undergradute Software Engineering student a
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulla-Khan&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-Khan&theme=dracula"  width=60% />
