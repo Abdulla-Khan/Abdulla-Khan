@@ -17,6 +17,7 @@ Hey Guys 👋, I'm Abdullah Khan, An undergradute Software Engineering student a
 
 ## &#x1f4c8; GitHub Stats
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulla-Khan&show_icons=true&locale=en" alt="humzakhan071" /></p>
 
 
 
