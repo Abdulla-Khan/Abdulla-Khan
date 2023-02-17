@@ -1,9 +1,7 @@
 ### Hey Guys 👋, I'm Abdulllah Khan.
 <br />
-Hey Guys 👋, I'm Abdullah Khan, An undergradute Software Engineering student and developer with expertise in Web Development and Cross Platform Application Development. Currently I'm the assistant trainer at the Jawan Pakistan Flutter Training program, which caters to a total of 150+ students ⚡️. Right now I'm working to become a Full stack developer. 💻👨‍💻
-
-  <br>  <br>
-  <img align="center" alt="GIF" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76116e06d76667e41a1df36e7a51156a1a7edab80f0a&rid=giphy.gif&ct=g" />
+Hey Guys 👋, I'm Abdullah Khan, An undergradute Software Engineering student and developer with expertise in Web Development and Cross Platform Application Development. Currently I was the assistant trainer at the Jawan Pakistan Flutter Training program, which catered to a total of 150+ students ⚡️. Right now I'm working as a Flutter Developer and trying to become a Full stack developer. 💻👨‍💻
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
