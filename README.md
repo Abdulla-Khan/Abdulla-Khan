@@ -18,8 +18,3 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
 - **Languages**: Dart, JavaScript
 - **Frameworks/Libraries**: Flutter, React, Material-UI
 - **Tools**: Firebase, Git, GitHub, VS Code
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulla-Khan&show_icons=true&theme=radical)
-
----
