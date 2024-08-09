@@ -1,22 +1,25 @@
-### Hey Guys 👋, I'm Abdulllah Khan.
-<br />
-Hey Guys 👋, I'm Abdullah Khan, An undergradute Software Engineering student and developer with expertise in Web Development and Cross Platform Application Development. I was assistant trainer at the Jawan Pakistan Flutter Training program, which catered to a total of 150+ students ⚡️. Right now I'm working as a Flutter Developer and trying to become a Full stack developer. 💻👨‍💻
- 
+# Hi there! 👋 I'm [Your Name]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdulla79564218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulla79564218" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah khan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17896071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17896071" height="30" width="40" /></a>
- 
+### 👨‍💻 About Me
+I'm a **Flutter Developer** with over two years of experience, currently working at a startup. I have a strong interest in **Database Systems**, **Programming**, **Algorithms**, and **Data Structures**. I recently completed my **Bachelor's degree in Software Engineering** and am considering pursuing a **Master's degree** to further deepen my knowledge.
 
+### 🚀 What I'm Working On
+- **Learning Management System (LMS)**: Developing an LMS using **React**, **Material-UI (MUI)**, and **Firebase**. This project involves creating a seamless and user-friendly dashboard with robust features.
+- **AR Application**: Building an augmented reality application that visualizes data structures using **Unity** and **Flutter**. Firebase is used for backend services, and the UI is crafted in Flutter, with the AR experience powered by Unity.
+- **Webview Translation**: Implementing a multilingual webview in Flutter using the `in_app_webview` package. The goal is to provide a user-friendly translation feature similar to Chrome's translate popup.
 
-
-
-## &#x1f4c8; GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulla-Khan&show_icons=true&locale=en" alt="Abdulla-Khan" /></p>
+### 🌱 Always Learning
+I believe in continuous learning and always strive to improve my skills. I'm currently diving deeper into advanced Flutter techniques and exploring more complex algorithms and data structures.
 
 
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-Khan&theme=dracula"  width=60% />
+### 🛠️ Tech Stack
+- **Languages**: Dart, JavaScript
+- **Frameworks/Libraries**: Flutter, React, Material-UI
+- **Tools**: Firebase, Git, GitHub, VS Code
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulla-Khan&show_icons=true&theme=radical)
+
+---
