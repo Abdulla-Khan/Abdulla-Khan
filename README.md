@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Abdullah Khan]
+# Hi there! 👋 I'm Abdullah Khan
 
 ### 👨‍💻 About Me
 I'm a **Flutter Developer** with over two years of experience, currently working at a startup. I have a strong interest in **Database Systems**, **Programming**, **Algorithms**, and **Data Structures**. I recently completed my **Bachelor's degree in Software Engineering** and am considering pursuing a **Master's degree** to further deepen my knowledge.
